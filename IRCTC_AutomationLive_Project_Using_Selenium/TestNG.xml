@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="RailwayBooking TestSuite">
+
+<test name="Booking Details">
+<classes>
+<class name="testCase.RailwayBookingDetails"></class>
+</classes>
+</test>
+
+<!-- <test name="Book Ticket">
+<classes>
+<class name=""></class>
+</classes>
+</test> -->
+</suite>

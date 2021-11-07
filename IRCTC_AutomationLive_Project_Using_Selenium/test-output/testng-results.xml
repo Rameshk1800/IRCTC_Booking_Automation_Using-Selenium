@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-07T20:12:44 IST" name="RailwayBooking TestSuite" finished-at="2021-11-07T20:12:51 IST" duration-ms="6760">
+    <groups>
+    </groups>
+    <test started-at="2021-11-07T20:12:44 IST" name="Booking Details" finished-at="2021-11-07T20:12:51 IST" duration-ms="6760">
+      <class name="testCase.RailwayBookingDetails">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testCase.RailwayBookingDetails@30ee2816]" started-at="2021-11-07T20:12:38 IST" name="launchBrowser" finished-at="2021-11-07T20:12:44 IST" duration-ms="6430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="bookingDeatilsTC()[pri:0, instance:testCase.RailwayBookingDetails@30ee2816]" started-at="2021-11-07T20:12:44 IST" name="bookingDeatilsTC" finished-at="2021-11-07T20:12:51 IST" duration-ms="6695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookingDeatilsTC -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.RailwayBookingDetails@30ee2816]" started-at="2021-11-07T20:12:51 IST" name="tearDown" finished-at="2021-11-07T20:12:51 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.RailwayBookingDetails -->
+    </test> <!-- Booking Details -->
+  </suite> <!-- RailwayBooking TestSuite -->
+</testng-results>
